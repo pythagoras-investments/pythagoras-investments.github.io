@@ -4,15 +4,15 @@
 title: Pythagoras Investments
 
 # Short description of your site
-description: A virtual proof that I'm awesome
+description: Pythagoras Investments - we are quantitative traders of cryptocurrencies.
 
 # Your name to show in the footer
 author: Pythagoras Investments
 
 # --- List of links in the navigation bar --- #
 
-navbar-links:
-  About Us: "about"
+# navbar-links:
+#   About Us: "about"
 
 # --- Logo --- #
 
@@ -21,7 +21,7 @@ navbar-links:
 avatar: "/assets/img/pythagoras.png"
 
 # By default, the image is cut into a circle. You can disable this behaviour by setting 'round-avatar: false'
-round-avatar: true
+round-avatar: false
 
 # If you want to have an image logo in the top-left corner instead of the title text,
 # then specify the following parameter
