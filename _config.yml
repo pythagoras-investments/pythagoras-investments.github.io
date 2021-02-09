@@ -11,8 +11,10 @@ author: Pythagoras Investments
 
 # --- List of links in the navigation bar --- #
 
-# navbar-links:
-#   About Us: "about"
+navbar-links:
+  Crypto Articles: "crypto-articles"
+  Contact Us: "contact-us"
+
 
 # --- Logo --- #
 
