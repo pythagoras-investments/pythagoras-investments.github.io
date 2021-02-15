@@ -26,16 +26,24 @@ common-js:
 
   <body>
 
+    <div id="page-container">
+
     {% include gtm_body.html %}
 
     <!-- disable nav -->
     {% include nav.html %}
 
-    {{ content }}
+    <div id="content-wrap">
+      {{  content }}
+    </div>
 
     {% include footer.html %}
+    
+    </div>
 
     {% include footer-scripts.html %}
+
+
 
   </body>
 </html>
