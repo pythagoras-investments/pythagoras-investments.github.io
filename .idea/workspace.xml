@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="a29608b6-2b0e-4aca-8bf7-ae8443d5e493" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2CsV3FLY5uZsAbOLdCiToHi3yMY" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/Users/caiyundong/Desktop/project/cryptoalpha/pythagoras-investments.github.io&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/assets/pdf" />
+      <recent name="$PROJECT_DIR$/assets/img/hmf2022_award" />
+      <recent name="$PROJECT_DIR$/pages" />
+      <recent name="$PROJECT_DIR$/assets/img" />
+    </key>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="a29608b6-2b0e-4aca-8bf7-ae8443d5e493" name="Default Changelist" comment="" />
+      <created>1659591078018</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1659591078018</updated>
+      <workItem from="1659591083780" duration="2866000" />
+      <workItem from="1659910680434" duration="580000" />
+      <workItem from="1660788285620" duration="606000" />
+      <workItem from="1661168245189" duration="608000" />
+      <workItem from="1667226047930" duration="4260000" />
+      <workItem from="1667653657222" duration="592000" />
+      <workItem from="1667824357130" duration="39000" />
+      <workItem from="1669990792047" duration="8798000" />
+      <workItem from="1673245160559" duration="778000" />
+      <workItem from="1674718788192" duration="533000" />
+      <workItem from="1683601415882" duration="1311000" />
+      <workItem from="1684375537758" duration="3707000" />
+      <workItem from="1710056084631" duration="1908000" />
+      <workItem from="1710175872057" duration="878000" />
+      <workItem from="1710343318799" duration="530000" />
+      <workItem from="1721096435374" duration="428000" />
+      <workItem from="1721182360208" duration="574000" />
+      <workItem from="1722870791105" duration="1351000" />
+      <workItem from="1729586333589" duration="3703000" />
+      <workItem from="1736312980319" duration="1038000" />
+      <workItem from="1736610995900" duration="598000" />
+      <workItem from="1736688715192" duration="601000" />
+      <workItem from="1736825308832" duration="1045000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="378" y="182" width="683" height="486" key="find.popup" timestamp="1670465313043">
+      <screen x="0" y="23" width="1440" height="811" />
+    </state>
+    <state x="378" y="182" width="683" height="486" key="find.popup/0.23.1440.811@0.23.1440.811" timestamp="1670465313043" />
+  </component>
+</project>
